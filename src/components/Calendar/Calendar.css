@@ -1,0 +1,13 @@
+.react-datepicker__input-container input {
+    background: transparent;
+    border: none;
+    color: transparent;
+}
+
+.react-datepicker__input-container input:focus {
+    outline: none;
+}
+
+.react-datepicker-popper {
+    left: 20% !important;
+}
